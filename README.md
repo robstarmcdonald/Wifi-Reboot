@@ -7,6 +7,6 @@
 
 - Launch terminal and type these answers.
 
-sudo modprobe -r iwlwifi && sleep 10 && sudo modprobe iwlwifi
+- sudo modprobe -r iwlwifi && sleep 10 && sudo modprobe iwlwifi
 
 - If the wifi is down again, try again and your done.
