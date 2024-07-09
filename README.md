@@ -1,4 +1,4 @@
-# Some devices including GPD Win2 are thr perfect example for these issues.
+# Some devices including GPD Win2 are the perfect example for these issues.
 # To fix this problem, please follow these steps
 
 - The filename wifi-reboot with temporary fix your wifi issues on Linux/Ubuntu
