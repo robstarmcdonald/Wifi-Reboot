@@ -3,8 +3,8 @@
 
 - The fill called wifi-reboot will temporary fix your wifi issues on Linux/Ubuntu.
 
-- Download the file from https://github.com/robstarmcdonald/Wifi-Reboot/blob/main/wifi-reboot
+- Download the file from https://github.com/robstarmcdonald/Wifi-Reboot/blob/main/wifi-reboot to "/usr/bin/"
 
-- Launch terminal and type these answers and type -> sudo modprobe -r iwlwifi && sleep 10 && sudo modprobe iwlwifi or download wifi-reboot file to partiton location "/usr/bin/" (optional).
+- Launch terminal and type these answers and type -> wifi-reboot (Type it again if the wifi is down again).
 
-- If the wifi is down again, try again and your done.
+- You're done.
