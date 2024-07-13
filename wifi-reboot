@@ -1,3 +1,3 @@
 #!/bin/sh
 
-sudo echo Wifi is rebooting && sudo modprobe -r iwlwifi && sleep 10 && sudo modprobe iwlwifi && sudo echo Wifi established && sleep 1 && clear
+sudo echo Wi-Fi is rebooting && sudo modprobe -r iwlwifi && sleep 10 && sudo modprobe iwlwifi && sudo echo Wi-Fi established && sleep 1 && clear
