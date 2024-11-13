@@ -6,6 +6,6 @@
 
 - Download the file from https://github.com/robstarmcdonald/Wifi-Reboot/blob/main/wifi-reboot to "/usr/bin/"
 
-- Launch terminal and type these answers and type -> wifi-reboot (Type it again if the wifi is down again).
+- Launch terminal and type these answers and type -> wifi-reboot (Type it again if the Wi-Fi wares out again).
 
 - You're done.
