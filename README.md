@@ -1,5 +1,6 @@
 # Some devices including GPD WIN2 are the perfect example for these issues.
-# To fix this problem, please follow these steps.
+# Because sometimes like on Ubuntu 24.04 LTS Noble Numbat, it wares out right away.
+# To fix this problem without have to reboot every time, please follow these steps.
 
 - The fill called wifi-reboot will temporary fix your wifi issues on Linux/Ubuntu.
 
