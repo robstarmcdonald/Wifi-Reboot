@@ -4,7 +4,9 @@
 
 - The fill called wifi-reboot will temporary fix your wifi issues on Linux/Ubuntu.
 
-- Download the file from https://github.com/robstarmcdonald/Wifi-Reboot/blob/main/wifi-reboot to "/usr/bin/"
+- Go to this link https://github.com/robstarmcdonald/Wifi-Reboot/blob/main/wifi-reboot and download or make a file.
+
+- Save it to "/usr/bin"
 
 - Launch terminal and type these answers and type -> wifi-reboot (Type it again if the Wi-Fi wares out again).
 
