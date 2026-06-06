@@ -1,5 +1,5 @@
 # Some devices including GPD WIN2 are the perfect example for these issues.
-# Because sometimes like on Ubuntu, it wares out right away.
+# Because sometimes like on Ubuntu, it wares out shortly.
 
 
 - You can create a file by looking here https://github.com/robstarmcdonald/Wifi-Reboot/blob/main/wifi-reboot
